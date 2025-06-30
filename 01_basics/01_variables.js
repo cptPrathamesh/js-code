@@ -13,12 +13,12 @@ accontEmail="hdfc@gmail.com";
 accountPassword="121221";
 accountCity="Thane";
 
-console.table([accontEmail,accountId,accountPassword,accountCity,acccountState]);
+console.table([accontEmail,accountId,accountPassword,accountCity,acccountState]); //to print the output in the tabular form 
 
 // let and var mai difference
 /*
     Prefered not to use var 
-
+    because issue in block scope and functional space
 */
 
 
